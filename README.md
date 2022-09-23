@@ -1,1 +1,1 @@
-# ReceiptPrinter
+# WPF¥Ú”°∆±æ›
